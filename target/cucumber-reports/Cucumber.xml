@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="5.832">
+    <testcase classname="End to End Tests for ToolsQA's Book Store API" name="Authorized user is able to Add and Remove a book." time="5.619">
+        <system-out><![CDATA[Given I am an authorized user...............................................passed
+Given A list of books are available.........................................passed
+When I add a book to my reading list........................................passed
+Then The book is added......................................................passed
+When I remove a book from my reading list...................................passed
+Then The book is removed....................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>

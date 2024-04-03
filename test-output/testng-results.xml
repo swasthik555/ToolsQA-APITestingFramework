@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="14" total="15" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-11T18:30:17 IST" name="Default suite" finished-at="2022-07-11T18:30:21 IST" duration-ms="4089">
+    <groups>
+    </groups>
+    <test started-at="2022-07-11T18:30:17 IST" name="Default test" finished-at="2022-07-11T18:30:21 IST" duration-ms="4089">
+      <class name="pra.Rest">
+        <test-method is-config="true" signature="getUserData()[pri:0, instance:pra.Rest@10163d6]" started-at="2022-07-11T18:30:17 IST" name="getUserData" finished-at="2022-07-11T18:30:19 IST" duration-ms="2208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserData -->
+        <test-method signature="RegistrationSuccessful()[pri:0, instance:pra.Rest@10163d6]" started-at="2022-07-11T18:30:19 IST" name="RegistrationSuccessful" finished-at="2022-07-11T18:30:20 IST" duration-ms="1174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationSuccessful -->
+        <test-method is-config="true" signature="getUserData()[pri:0, instance:pra.Rest@10163d6]" started-at="2022-07-11T18:30:20 IST" name="getUserData" finished-at="2022-07-11T18:30:21 IST" duration-ms="676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserData -->
+      </class> <!-- pra.Rest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
